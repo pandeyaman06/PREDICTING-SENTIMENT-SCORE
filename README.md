@@ -1,2 +1,3 @@
 # PREDICTING-SENTIMENT-SCORE
 PREDICTING SENTIMENT SCORE BY ANALYZING SOCIAL MEDIA ENGAGEMENT DATASET WITH 12000 ROWS AND 28 COLUMNS
+This project focuses on analyzing social media engagement data to build a model that predicts sentiment scores using a Decision Tree Classifier. The goal is to understand the relationship between various social media metrics and the sentiment expressed in user content. By applying the Decision Tree algorithm, we aim to classify sentiment into categories such as negative, neutral, and positive, providing insights into how social media engagement correlates with user opinions and feelings. This model will predict the sentiment score of the person on the basis of text content and topics on the social media.
